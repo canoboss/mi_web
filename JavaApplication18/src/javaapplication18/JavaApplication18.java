@@ -16,6 +16,10 @@ public class JavaApplication18 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        int contador=0;
+        while(contador<10){
+            contador++;
+        }
     }
     
 }
